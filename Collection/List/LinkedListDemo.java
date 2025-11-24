@@ -1,9 +1,9 @@
-package Collection;
+package Collection.List;
 import java.util.LinkedList;
 import java.util.Collections;
 import java.util.Iterator;
 
-public class LinkedListMethodsDemo {
+public class LinkedListDemo {
 
     public static void main(String[] args) {
 

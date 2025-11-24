@@ -1,4 +1,4 @@
-package Collection;
+package Collection.List;
 
 import java.util.Iterator;
 import java.util.Vector;

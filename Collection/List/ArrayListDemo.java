@@ -1,10 +1,10 @@
-package Collection;
+package Collection.List;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
-public class ArrayListMethodDemo {
+public class ArrayListDemo {
     public static void main(String[] args) {
       // ---------------------------
         // 1. Create ArrayList
