@@ -63,7 +63,7 @@ Contributions are welcome! Fork the repo and submit a pull request.
 
 ## 📧 Contact
 
-For questions, email [atulrathod3012@gmail.com](mailto:atulrathod302002@gmail.com)
+For questions, email [atulrathod302002@gmail.com](mailto:atulrathod302002@gmail.com)
 
 ---
 
