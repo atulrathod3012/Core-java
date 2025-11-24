@@ -1,4 +1,3 @@
-package String;
 
 // reversing string manually
 public class StringReverse {

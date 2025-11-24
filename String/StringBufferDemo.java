@@ -1,4 +1,4 @@
-package String;
+
 // stringbuffer is synchronized (thread safe)
 public class StringBufferDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package String;
+
 // string vs stringbuilder modification
 public class StringMutableVsImmutable {
     public static void main(String[] args) {

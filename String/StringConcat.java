@@ -1,4 +1,4 @@
-package String;
+
 // string concatenation
 public class StringConcat {
     public static void main(String[] args) {
